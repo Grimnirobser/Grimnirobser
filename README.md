@@ -1,10 +1,10 @@
 **Hi there, I'm Eron.**
 
 <a href="https://github.com/Grimnirobser">
-  <img align="left" alt="github" width="20px" src="https://github.com/Grimnirobser/icons/blob/main/icons/github.svg" />
+  <img align="left" alt="github" width="20px" src="https://github.com/Grimnirobser/icons/blob/master/icon/github.svg" />
 </a>
 <a href="https://www.linkedin.com/in/jialin-ying-aa551b18a/">
-  <img align="left" alt="linkedin" width="21px" src="https://github.com/Grimnirobser/icons/blob/main/icons/linkedin.svg" />
+  <img align="left" alt="linkedin" width="21px" src="https://github.com/Grimnirobser/icons/blob/master/icon/linkedin.svg" />
 
 </a>
 

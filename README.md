@@ -1,1 +1,1 @@
-[![Eron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grimnirobser&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Eron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grimnirobser&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)

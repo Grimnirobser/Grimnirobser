@@ -13,5 +13,5 @@
 <br />
 <br />
 
-![Eron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grimnirobser&hide=stars,prs,issues&show_icons=true)
 
+//![Eron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grimnirobser&hide=stars,prs,issues&show_icons=true)

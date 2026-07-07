@@ -1,4 +1,4 @@
-### My contributions, traded daily 📈
+### Contribution as a stock 📈
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="kline/kline-dark.svg">

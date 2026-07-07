@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: Grimnirobser/gitdaq@v1
         with:
-          metric: commits
+          metric: lines
           days: 60
       - name: Commit chart
         run: |

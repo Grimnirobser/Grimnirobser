@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: Grimnirobser/github-kline@v1
+      - uses: Grimnirobser/gitdaq@v1
         with:
           metric: commits
           days: 60

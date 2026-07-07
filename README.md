@@ -7,4 +7,4 @@
 
 <sub>Candlesticks: close = today's commits, open = yesterday's — red rallies, green sell-offs;
 volume bars = total contributions (commits + PRs + issues + reviews).
-Rendered daily by <a href="https://github.com/Grimnirobser/github-kline">github-kline</a>.</sub>
+Rendered daily by <a href="https://github.com/Grimnirobser/gitdaq">gitdaq</a>.</sub>
